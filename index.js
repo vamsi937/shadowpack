@@ -1,5 +1,5 @@
-function shadowpack(options) {
-  let images = document.querySelectorAll(".shadowpack");
+function shadowpacker(options) {
+  let images = document.querySelectorAll(".shadowpacker");
 
   if (options.shadow_type === "hard") {
     options.shadow_type = "0px";
@@ -16,4 +16,4 @@ function shadowpack(options) {
   });
 }
 
-module.exports.shadowpack = shadowpack;
+module.exports.shadowpacker = shadowpacker;

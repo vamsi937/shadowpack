@@ -1,0 +1,22 @@
+{
+  "name": "shadowpacker",
+  "version": "1.0.0",
+  "description": "Add awesome shadows for the non-designer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vamsi937/shadowpack.git"
+  },
+  "keywords": [
+    "shadows"
+  ],
+  "author": "Vamsi Krishna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vamsi937/shadowpack/issues"
+  },
+  "homepage": "https://github.com/vamsi937/shadowpack#readme"
+}
